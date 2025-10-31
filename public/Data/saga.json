@@ -1,0 +1,903 @@
+{
+  "marvel_saga": [
+    {
+      "id": 1,
+      "title": "Iron Man",
+      "phase": "Phase 1",
+      "year": 2008,
+      "description": "Tony Stark builds a suit of armor to escape captivity and becomes the armored hero Iron Man.",
+      "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 126,
+      "box_office_usd": 585796247,
+      "views": null,
+      "director": "Jon Favreau",
+      "cast": [
+        "Robert Downey Jr.",
+        "Gwyneth Paltrow",
+        "Jeff Bridges"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 2,
+      "title": "The Incredible Hulk",
+      "phase": "Phase 1",
+      "year": 2008,
+      "description": "Bruce Banner searches for a cure to his transformation into the Hulk while being hunted by the military.",
+      "poster": "https://image.tmdb.org/t/p/w500/fuZJ3FJvD3s7G4s46aPazTApZ1N.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 112,
+      "box_office_usd": 264770996,
+      "views": null,
+      "director": "Louis Leterrier",
+      "cast": [
+        "Edward Norton",
+        "Liv Tyler",
+        "Tim Roth"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 3,
+      "title": "Iron Man 2",
+      "phase": "Phase 1",
+      "year": 2010,
+      "description": "Tony Stark faces pressure from the government and new enemies while struggling with his own health.",
+      "poster": "https://image.tmdb.org/t/p/w500/ArqpkNYGfcTIA6umWt6xihfIZZv.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 124,
+      "box_office_usd": 623933331,
+      "views": null,
+      "director": "Jon Favreau",
+      "cast": [
+        "Robert Downey Jr.",
+        "Gwyneth Paltrow",
+        "Scarlett Johansson"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 4,
+      "title": "Thor",
+      "phase": "Phase 1",
+      "year": 2011,
+      "description": "The god of thunder is banished from Asgard and must prove himself worthy of his power.",
+      "poster": "https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 115,
+      "box_office_usd": 449326618,
+      "views": null,
+      "director": "Kenneth Branagh",
+      "cast": [
+        "Chris Hemsworth",
+        "Natalie Portman",
+        "Tom Hiddleston"
+      ],
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 5,
+      "title": "Captain America: The First Avenger",
+      "phase": "Phase 1",
+      "year": 2011,
+      "description": "Steve Rogers becomes the super soldier Captain America during World War II to fight Hydra.",
+      "poster": "https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 124,
+      "box_office_usd": 370569774,
+      "views": null,
+      "director": "Joe Johnston",
+      "cast": [
+        "Chris Evans",
+        "Hayley Atwell",
+        "Sebastian Stan"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "War"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 6,
+      "title": "The Avengers",
+      "phase": "Phase 1",
+      "year": 2012,
+      "description": "Earth’s mightiest heroes unite to stop Loki and an alien invasion threatening humanity.",
+      "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 143,
+      "box_office_usd": 1520538536,
+      "views": null,
+      "director": "Joss Whedon",
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Scarlett Johansson"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 7,
+      "title": "Iron Man 3",
+      "phase": "Phase 2",
+      "year": 2013,
+      "description": "Haunted by past events, Tony Stark faces a mysterious terrorist known as the Mandarin.",
+      "poster": "https://image.tmdb.org/t/p/w500/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 130,
+      "box_office_usd": 1215577205,
+      "views": null,
+      "director": "Shane Black",
+      "cast": [
+        "Robert Downey Jr.",
+        "Gwyneth Paltrow",
+        "Ben Kingsley"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 8,
+      "title": "Thor: The Dark World",
+      "phase": "Phase 2",
+      "year": 2013,
+      "description": "Thor must save the universe when the Dark Elves try to use the Aether to plunge it into darkness.",
+      "poster": "https://image.tmdb.org/t/p/w500/tv6RZ1j9AE6dY46Gpl1oJ9m4GsP.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 112,
+      "box_office_usd": 644783140,
+      "views": null,
+      "director": "Alan Taylor",
+      "cast": [
+        "Chris Hemsworth",
+        "Natalie Portman",
+        "Tom Hiddleston"
+      ],
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 9,
+      "title": "Captain America: The Winter Soldier",
+      "phase": "Phase 2",
+      "year": 2014,
+      "description": "Steve Rogers uncovers a conspiracy within S.H.I.E.L.D. and faces a deadly assassin from his past.",
+      "poster": "https://image.tmdb.org/t/p/w500/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 136,
+      "box_office_usd": 714421503,
+      "views": null,
+      "director": "Anthony and Joe Russo",
+      "cast": [
+        "Chris Evans",
+        "Scarlett Johansson",
+        "Sebastian Stan"
+      ],
+      "genres": [
+        "Action",
+        "Thriller",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 10,
+      "title": "Guardians of the Galaxy",
+      "phase": "Phase 2",
+      "year": 2014,
+      "description": "A group of intergalactic misfits unite to protect the galaxy from a powerful villain.",
+      "poster": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 121,
+      "box_office_usd": 773350147,
+      "views": null,
+      "director": "James Gunn",
+      "cast": [
+        "Chris Pratt",
+        "Zoe Saldaña",
+        "Dave Bautista"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 11,
+      "title": "Avengers: Age of Ultron",
+      "phase": "Phase 2",
+      "year": 2015,
+      "description": "The Avengers must stop Ultron, a rogue AI created by Tony Stark, from destroying humanity.",
+      "poster": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 141,
+      "box_office_usd": 1405018048,
+      "views": null,
+      "director": "Joss Whedon",
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Scarlett Johansson"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 12,
+      "title": "Ant-Man",
+      "phase": "Phase 2",
+      "year": 2015,
+      "description": "Scott Lang becomes Ant-Man to help Dr. Hank Pym protect his shrinking technology.",
+      "poster": "https://image.tmdb.org/t/p/w500/D6e8RJf2qUstnfkTslTXNTUAlT.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 117,
+      "box_office_usd": 519311965,
+      "views": null,
+      "director": "Peyton Reed",
+      "cast": [
+        "Paul Rudd",
+        "Evangeline Lilly",
+        "Michael Douglas"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Comedy"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 13,
+      "title": "Captain America: Civil War",
+      "phase": "Phase 3",
+      "year": 2016,
+      "description": "The Avengers are divided when government oversight sparks a conflict between Iron Man and Captain America.",
+      "poster": "https://image.tmdb.org/t/p/w500/kSBXou5Ac7vEqKd97wotJumyJvU.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 147,
+      "box_office_usd": 1155046416,
+      "views": null,
+      "director": "Anthony and Joe Russo",
+      "cast": [
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Scarlett Johansson"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 14,
+      "title": "Doctor Strange",
+      "phase": "Phase 3",
+      "year": 2016,
+      "description": "Dr. Stephen Strange learns the mystic arts to defend reality from dark interdimensional forces.",
+      "poster": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 115,
+      "box_office_usd": 677796076,
+      "views": null,
+      "director": "Scott Derrickson",
+      "cast": [
+        "Benedict Cumberbatch",
+        "Chiwetel Ejiofor",
+        "Tilda Swinton"
+      ],
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 15,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "phase": "Phase 3",
+      "year": 2017,
+      "description": "The Guardians discover the truth about Peter Quill’s father and face new family challenges.",
+      "poster": "https://image.tmdb.org/t/p/w500/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 136,
+      "box_office_usd": 863756051,
+      "views": null,
+      "director": "James Gunn",
+      "cast": [
+        "Chris Pratt",
+        "Zoe Saldaña",
+        "Dave Bautista"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 16,
+      "title": "Spider-Man: Homecoming",
+      "phase": "Phase 3",
+      "year": 2017,
+      "description": "Peter Parker tries to balance school life with being Spider-Man while facing the Vulture.",
+      "poster": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 133,
+      "box_office_usd": 880166924,
+      "views": null,
+      "director": "Jon Watts",
+      "cast": [
+        "Tom Holland",
+        "Michael Keaton",
+        "Zendaya"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 17,
+      "title": "Thor: Ragnarok",
+      "phase": "Phase 3",
+      "year": 2017,
+      "description": "Thor teams up with Hulk to escape Sakaar and stop Hela from destroying Asgard.",
+      "poster": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 130,
+      "box_office_usd": 853977126,
+      "views": null,
+      "director": "Taika Waititi",
+      "cast": [
+        "Chris Hemsworth",
+        "Tom Hiddleston",
+        "Tessa Thompson"
+      ],
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 18,
+      "title": "Black Panther",
+      "phase": "Phase 3",
+      "year": 2018,
+      "description": "T’Challa returns to Wakanda to take the throne and faces challenges that test his leadership.",
+      "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 134,
+      "box_office_usd": 1346913161,
+      "views": null,
+      "director": "Ryan Coogler",
+      "cast": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Lupita Nyong'o"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 19,
+      "title": "Avengers: Infinity War",
+      "phase": "Phase 3",
+      "year": 2018,
+      "description": "Earth’s heroes unite to stop Thanos from collecting the Infinity Stones and erasing half of life.",
+      "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 149,
+      "box_office_usd": 2052415039,
+      "views": null,
+      "director": "Anthony and Joe Russo",
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Josh Brolin"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 20,
+      "title": "Avengers: Endgame",
+      "phase": "Phase 3",
+      "year": 2019,
+      "description": "The Avengers travel through time to undo the catastrophic snap caused by Thanos.",
+      "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 181,
+      "box_office_usd": 2799439100,
+      "views": null,
+      "director": "Anthony and Joe Russo",
+      "cast": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Scarlett Johansson"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 21,
+      "title": "Spider-Man: Far From Home",
+      "phase": "Phase 3",
+      "year": 2019,
+      "description": "Peter Parker’s European trip turns chaotic when new elemental creatures appear.",
+      "poster": "https://image.tmdb.org/t/p/w500/lcq8dVxeeOqHvvgcte707K0KVx5.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 129,
+      "box_office_usd": 1131927996,
+      "views": null,
+      "director": "Jon Watts",
+      "cast": [
+        "Tom Holland",
+        "Jake Gyllenhaal",
+        "Zendaya"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 22,
+      "title": "Black Widow",
+      "phase": "Phase 4",
+      "year": 2021,
+      "description": "Natasha Romanoff confronts her past and faces the dangerous organization that made her a spy.",
+      "poster": "https://image.tmdb.org/t/p/w500/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 134,
+      "box_office_usd": 379751131,
+      "views": null,
+      "director": "Cate Shortland",
+      "cast": [
+        "Scarlett Johansson",
+        "Florence Pugh",
+        "David Harbour"
+      ],
+      "genres": [
+        "Action",
+        "Thriller",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 23,
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "phase": "Phase 4",
+      "year": 2021,
+      "description": "Martial artist Shang-Chi confronts his father and the mysterious Ten Rings organization.",
+      "poster": "https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 132,
+      "box_office_usd": 432243292,
+      "views": null,
+      "director": "Destin Daniel Cretton",
+      "cast": [
+        "Simu Liu",
+        "Awkwafina",
+        "Tony Leung"
+      ],
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 24,
+      "title": "Eternals",
+      "phase": "Phase 4",
+      "year": 2021,
+      "description": "A group of immortal beings reunite to protect Earth from their ancient enemies, the Deviants.",
+      "poster": "https://image.tmdb.org/t/p/w500/b6qUu00iIIkXX13szFy7d0CyNcg.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 157,
+      "box_office_usd": 402064899,
+      "views": null,
+      "director": "Chloé Zhao",
+      "cast": [
+        "Gemma Chan",
+        "Richard Madden",
+        "Angelina Jolie"
+      ],
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 25,
+      "title": "Spider-Man: No Way Home",
+      "phase": "Phase 4",
+      "year": 2021,
+      "description": "Peter Parker’s identity crisis leads to a multiverse collision with villains from other realities.",
+      "poster": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 148,
+      "box_office_usd": 1921426073,
+      "views": null,
+      "director": "Jon Watts",
+      "cast": [
+        "Tom Holland",
+        "Zendaya",
+        "Benedict Cumberbatch"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 26,
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "phase": "Phase 4",
+      "year": 2022,
+      "description": "Doctor Strange explores alternate realities while facing a corrupted Wanda Maximoff.",
+      "poster": "https://image.tmdb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 126,
+      "box_office_usd": 955775804,
+      "views": null,
+      "director": "Sam Raimi",
+      "cast": [
+        "Benedict Cumberbatch",
+        "Elizabeth Olsen",
+        "Xochitl Gomez"
+      ],
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Horror"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 27,
+      "title": "Thor: Love and Thunder",
+      "phase": "Phase 4",
+      "year": 2022,
+      "description": "Thor seeks inner peace but is forced back into action when Gorr the God Butcher threatens the gods.",
+      "poster": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 119,
+      "box_office_usd": 760928081,
+      "views": null,
+      "director": "Taika Waititi",
+      "cast": [
+        "Chris Hemsworth",
+        "Natalie Portman",
+        "Christian Bale"
+      ],
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 28,
+      "title": "Black Panther: Wakanda Forever",
+      "phase": "Phase 4",
+      "year": 2022,
+      "description": "The people of Wakanda fight to protect their nation after the death of King T’Challa.",
+      "poster": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 161,
+      "box_office_usd": 859208836,
+      "views": null,
+      "director": "Ryan Coogler",
+      "cast": [
+        "Letitia Wright",
+        "Lupita Nyong'o",
+        "Angela Bassett"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 29,
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "phase": "Phase 5",
+      "year": 2023,
+      "description": "Scott Lang and his family are pulled into the Quantum Realm, where they meet the powerful Kang.",
+      "poster": "https://image.tmdb.org/t/p/w500/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 124,
+      "box_office_usd": 476071180,
+      "views": null,
+      "director": "Peyton Reed",
+      "cast": [
+        "Paul Rudd",
+        "Evangeline Lilly",
+        "Jonathan Majors"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 30,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "phase": "Phase 5",
+      "year": 2023,
+      "description": "The Guardians embark on a dangerous mission to save Rocket and uncover his tragic past.",
+      "poster": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 150,
+      "box_office_usd": 845570723,
+      "views": null,
+      "director": "James Gunn",
+      "cast": [
+        "Chris Pratt",
+        "Zoe Saldaña",
+        "Dave Bautista"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    },
+    {
+      "id": 31,
+      "title": "The Marvels",
+      "phase": "Phase 5",
+      "year": 2023,
+      "description": "Carol Danvers teams up with Monica Rambeau and Kamala Khan as their powers become entangled.",
+      "poster": "https://image.tmdb.org/t/p/w500/AgWY6NH1gKMeR0dSMJbM0p8vX0f.jpg",
+      "rating": "PG-13",
+      "runtime_minutes": 105,
+      "box_office_usd": 206108284,
+      "views": null,
+      "director": "Nia DaCosta",
+      "cast": [
+        "Brie Larson",
+        "Teyonah Parris",
+        "Iman Vellani"
+      ],
+      "genres": [
+        "Action",
+        "Sci‑Fi",
+        "Adventure"
+      ],
+      "trailer": null,
+      "language": "English",
+      "country": "USA",
+      "imdb": null,
+      "rotten_tomatoes": null,
+      "views_note": "Reproducciones de estreno no disponibles públicamente de forma consistente para cine; use métricas de entradas vendidas o streaming por título si existen."
+    }
+  ]
+}
